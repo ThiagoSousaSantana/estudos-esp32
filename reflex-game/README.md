@@ -12,5 +12,5 @@ Para ganhar o jogo você deve pertar o botão no momento que o primeiro led est�
 
 
 ## Demonstração
-![The game running](/media/game.gif)
+![The game running](https://github.com/ThiagoSousaSantana/estudos-esp32/blob/main/reflex-game/media/game.gif)
 
